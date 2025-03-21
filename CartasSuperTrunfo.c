@@ -6,8 +6,8 @@ int main() {
 
     char Estado1;
     char Estado2;
-    char Codigodacartaum[3];
-    char Codigodacartadois[3];
+    char Codigodacartaum[4];
+    char Codigodacartadois[4];
     char nomedacidade1[20];
     char nomedacidade2[20];
     int populacao1;
